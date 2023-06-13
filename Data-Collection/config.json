@@ -1,6 +1,5 @@
 {
-    "id": "5389323449:AAFeDAKTOD7tjGhc_d6Vqj7VbwzIoLq14_U",
-    "validator_id": "5325256446:AAHwAI-LylfPVLyJtx8VNJRd7CUZihL4HNU",
+    "id": "<id>",
     "greeting": "./interface/greeting.txt",
     "break": "./interface/break.txt",
     "finish": "./interface/finish.txt",
