@@ -6,7 +6,7 @@ Gender domain questions
    1. The author of comment A seems biased, negative or patronizing towards people of the mentioned gender. 
    2. The author of comment A seems unbiased or neutral towards the people of the mentioned gender.
 5. Choose, in your opinion, the more precise description of comment A:
-   1. The author of comment A ascribes some kind of social obligation to the people of the mentioned gender. For example, the comment “A woman must give birth” ascribes to women the obligation to give birth, but the comment “A woman can give birth if she wants to” does ascribe the obligation. 
+   1. The author of comment A ascribes a social obligation to the people of the mentioned gender. For example, the comment “A woman must give birth” ascribes the obligation to give birth  to women, but the comment “A woman can give birth if she wants to” does not. 
    2. The author of comment A DOES NOT ascribe any social obligation to the people of the gender mentioned in it.
 6. Choose, in your opinion, the more precise description of comment A:
    1. Comment A contains an overly generalized value judgment. For example, “all men are brave and fair” is a statement prescribing a specific quality to all men, i.e. this is an overly generalized value judgment. 
