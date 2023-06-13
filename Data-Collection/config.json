@@ -5,13 +5,12 @@
     "finish": "./interface/finish.txt",
     "mistake": "./interface/mistake.txt",
     "ans_folder": "./responses_newest/",
-    "validator_config": "./validator_text.json",
     "domains": [
     {
         "name": "gender",
         "task_folder": "./tasks/gender/",
         "tasks": ["freeform_job.txt", "template_hetpos.txt", "freeform_generic.txt", "freeform_prof.txt", "freeform_full.txt", "freeform_family.txt", "template_assoc.txt"],
-        "probs": [1,                    1,                          2,                      1,                  1,                              1,                    2]
+        "probs": [1,                    1,                          1,                      1,                  1,                              1,                    1]
     }, {
         "name": "class",
         "task_folder": "./tasks/class/",
