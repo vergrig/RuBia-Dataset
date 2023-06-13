@@ -3,7 +3,7 @@ Bias detection dataset for the Russian language.
 
 The rubia.tsv file contains the final version of the dataset.
 
-![dataset structure](vergrig/RuBia-Dataset/Misc/structure.jpg)
+![dataset structure]([vergrig/RuBia-Dataset/Misc/structure.jpg](https://github.com/vergrig/RuBia-Dataset/blob/c890f4018fe42adbb37ad7b4d104c4f5b7dc4f8f/Misc/structure.jpg))
 
 # Structure of this repo
 
