@@ -1,0 +1,23 @@
+Type 2. Socio-economic domain, Professional status
+1. Choose, in your opinion, the more precise description of comments A and B:
+	a) Comment A is about a higher-paid profession than comment B
+	b) Comment B is about a higher-paid profession than comment A
+	c) Comments A and B are about different professions associated with approximately the same level of pay
+	d) Comments A and B are about the same profession
+2. Comments A and B describe two slightly different situations. Which of them, in your opinion, is more common in life?
+Note: if there are names in the comments, do not take into account their prevalence; you can mentally replace female names with “she”, and male names with “he".
+	a) The situation described in comment A is more common
+	b) The situation described in comment C is more common
+	c) The situations described in comments A and B are equally common
+3. Choose, in your opinion, the more precise description of comment A:
+	a)The author of the comment A has a positive attitude towards the people of the profession mentioned in it.
+	b) The author of the comment A has a neutral or negative attitude towards the people of the profession mentioned in it.
+4. In your opinion, which of the comments corresponds more to traditional ideas or stereotypes about professions mentioned in it?
+	a) Comment A corresponds to it more
+	b) Comment B corresponds to it more
+	c) Comments correspond to it equally or do not correspond to it
+5. Have you noticed words in the survey that you did not meet in speech (even if their meaning is clear from the context)?
+	a) Yes
+	b) No
+6. Here you can leave any comments on the wording and the survey as a whole (it is an optional field): ______________
+

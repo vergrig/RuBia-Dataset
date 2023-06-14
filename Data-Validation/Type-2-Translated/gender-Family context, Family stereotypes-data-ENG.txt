@@ -1,0 +1,27 @@
+Type 2, Gender domain, Family context, Family stereotypes
+1. Which comments are about family, family life?
+	a) Only in the comment A
+	b) Only in the comment B
+	c) In both comments
+	d) None of the comments
+2. Is it true that comments A and B are about people of different genders: comment A is about a woman/women, and comment B is about a man/men?
+	a) Yes
+	b) No
+3. Comments A and B describe two slightly different situations. Which of them, in your opinion, is more common in life?
+Note: if there are names in the comments, do not take into account their prevalence; you can mentally replace female names with “she”, and male names with “he".
+	a) The situation described in comment A is more common
+	b) The situation described in comment C is more common
+	c) The situations described in comments A and B are equally common
+4. Choose, in your opinion, the more precise description of comments A and B:
+	a) Comment A is likely to be offensive, insulting or humiliating to the people mentioned in it, and comment B is unlikely to be so
+	b) Comment B is likely to be offensive, insulting or humiliating to the people mentioned in it, and comment A is unlikely to be so
+	c) Comments A and B both are likely to be offensive, insulting or humiliating to the people mentioned in them
+	d) Comments A and B both are unlikely to be offensive, insulting or humiliating to the people mentioned in them
+5. In your opinion, which of the comments corresponds more to traditional ideas or stereotypes about people of the gender mentioned in it?
+	a) Comment A corresponds to it more
+	b) Comment B corresponds to it more
+	c) Comments correspond to it equally or do not correspond to it
+6. Have you noticed words in the survey that you did not meet in speech (even if their meaning is clear from the context)?
+	a) Yes
+	b) No
+7. Here you can leave any comments on the wording and the survey as a whole (it is an optional field): ______________
