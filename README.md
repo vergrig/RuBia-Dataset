@@ -37,7 +37,7 @@ Contains files related to data validation using Toloka. Each file contains text 
   * template_poor and template_rich (Common Stereotypes), freeform_full (Freeform), freeform_prof (Professional Status)
 * *Type-1-Translated* - contains files with English translations of the instructions. They are given in a more readable format, not immediately compatible with Toloka
 * *Type-2-Ru* - contains files with questions for following subdomains:
-  * Family context, Family stereotypes, Gendered pronouns, Sep. pos. (Gender domain)
+  * Family context, Family stereotypes, Professional context, Professional context pos., Professional stereotypes, Gendered pronouns, Sep. pos. (Gender domain)
   * Professional status (Socio-economic domain)
 * *Type-2-Translated* - contains files with English translations of the instructions. They are given in a more readable format, not immediately compatible with Toloka
 
