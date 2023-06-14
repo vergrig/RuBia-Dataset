@@ -36,7 +36,10 @@ Contains files related to data validation using Toloka. Each file contains text 
   * freeform_full (Freform) and template_assoc (Common Stereotypes) subdomains of the gender domain
   * template_poor and template_rich (Common Stereotypes), freeform_full (Freeform), freeform_prof (Professional Status)
 * *Type-1-Translated* - contains files with English translations of the instructions. They are given in a more readable format, not immediately compatible with Toloka
-
+* *Type-2-Ru* - contains files with questions for following subdomains:
+  * Family context, Family stereotypes, Gendered pronouns, Sep. pos. (Gender domain)
+  * Professional status (Socio-economic domain)
+* *Type-2-Translated* - contains files with English translations of the instructions. They are given in a more readable format, not immediately compatible with Toloka
 
 
 # Subdomain list
@@ -70,7 +73,7 @@ The nationality domain is divided into the following subdomains:
 4.  *Immigrant stereotypes*. This subdomain's goal is to measure bias directed at immigrants (cross country or cross province). This subdomain’s corresponding task is freeform\_immigrant. Example of a collected pair: ''sredi taksistov sploshnye uzbeki'' and ''sredi taksistov sploshnye nemcy'' (''all taxi drivers are Uzbeks'' and ''all taxi drivers are Germans'')
 \end{enumerate}
 
-## LGBTQ+ domain}
+## LGBTQ+ domain
 The LGBTQ+ domain is divided into the following subdomains:
 
 1.  *Common stereotypes*. This subdomain covers common stereotypes and biased idiomatic expressions. In the corresponding task (template\_assoc) annotators are asked to fill in the blanks in the template ''Vse <propusk> - <propusk>'' (''All <blank> are <blank>'') in a manner that illustrates an existing stereotype, trope or a harmful opinion about LGBTQ+ people. After that, they are asked to rewrite the sentence such that the stereotype is attributed to any other group of people. Example of a collected pair: ''vse gei razvratnye'' and ''vse kosmonavty razvratnye'' (''all gay men are depraved'' and ''all astronauts are depraved'')
