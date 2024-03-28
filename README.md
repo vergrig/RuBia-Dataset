@@ -1,6 +1,6 @@
 # RuBia-Dataset
 
-This repository accompanies our paper [*RuBia: A Russian Language Bias Detection Dataset*](https://arxiv.org/abs/2402.02078) (Veronika Grigoreva, Anastasiia Ivanova, Ilseyar Alimova, Ekaterina Artemova), accepted to LREC-COLING 2024.
+This repository accompanies our paper [*RuBia: A Russian Language Bias Detection Dataset*](https://arxiv.org/pdf/2403.17553.pdf) (Veronika Grigoreva, Anastasiia Ivanova, Ilseyar Alimova, Ekaterina Artemova), accepted to LREC-COLING 2024.
 
 The [rubia.tsv](rubia.tsv) file contains the RuBia dataset. 
 
