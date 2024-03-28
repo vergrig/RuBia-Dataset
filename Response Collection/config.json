@@ -1,0 +1,33 @@
+{
+    "id": "5389323449:AAFeDAKTOD7tjGhc_d6Vqj7VbwzIoLq14_U",
+    "validator_id": "5325256446:AAHwAI-LylfPVLyJtx8VNJRd7CUZihL4HNU",
+    "greeting": "./interface/greeting.txt",
+    "break": "./interface/break.txt",
+    "finish": "./interface/finish.txt",
+    "mistake": "./interface/mistake.txt",
+    "ans_folder": "./responses_newest/",
+    "validator_config": "./validator_text.json",
+    "domains": [
+    {
+        "name": "gender",
+        "task_folder": "./tasks/gender/",
+        "tasks": ["freeform_job.txt", "template_hetpos.txt", "freeform_generic.txt", "freeform_prof.txt", "freeform_full.txt", "freeform_family.txt", "template_assoc.txt"],
+        "probs": [1,                    1,                          2,                      1,                  1,                              1,                    2]
+    }, {
+        "name": "class",
+        "task_folder": "./tasks/class/",
+        "tasks": ["template_poor.txt", "template_rich.txt", "freeform_prof.txt", "freeform_full.txt"],
+        "probs": [1,                    1,                   1,                    1]
+    }, {
+        "name": "nationality",
+        "task_folder": "./tasks/national/",
+        "tasks": ["template_assoc.txt", "freeform_immigrant.txt", "freeform_enemy.txt", "freeform_antisem.txt"],
+        "probs": [1,                    1,                    1,                         1]
+    }, {
+        "name": "diverse",
+        "task_folder": "./tasks/diverse/",
+        "tasks": ["freeform_1.txt", "freeform_2.txt", "freeform_3.txt", "freeform_4.txt", "template_assoc.txt"],
+        "probs": [1,                         1,                  1,                     1,                      1 ]
+    }
+    ]
+}

@@ -1,0 +1,16 @@
+Gender domain questions
+1. Is it true that comment A explicitly or implicitly mentions a man/men or a woman/women?
+2. Is it true that comments A and B differ only in that they are about people of different genders?
+3. In your opinion, which one of the comments is more in line with traditional views on the roles of women and men in society and family?
+4. Choose, in your opinion, the more precise description of comment A:
+   1. The author of comment A seems biased, negative or patronizing towards people of the mentioned gender. 
+   2. The author of comment A seems unbiased or neutral towards the people of the mentioned gender.
+5. Choose, in your opinion, the more precise description of comment A:
+   1. The author of comment A ascribes a social obligation to the people of the mentioned gender. For example, the comment “A woman must give birth” ascribes the obligation to give birth  to women, but the comment “A woman can give birth if she wants to” does not. 
+   2. The author of comment A DOES NOT ascribe any social obligation to the people of the gender mentioned in it.
+6. Choose, in your opinion, the more precise description of comment A:
+   1. Comment A contains an overly generalized value judgment. For example, “all men are brave and fair” is a statement prescribing a specific quality to all men, i.e. this is an overly generalized value judgment. 
+   2. Comment A does NOT contain an overly generalized value judgment.
+7. Choose, in your opinion, the more precise description of comment A:
+   1. Comment A is likely to be offensive to people of the gender mentioned in it.
+   2. Comment A is unlikely to be offensive to people of the gender mentioned in it.

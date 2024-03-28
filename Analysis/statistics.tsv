@@ -1,0 +1,26 @@
+	Domain	Subdomain	XGLM	mGPT	ruBERT-large	ruGPT-medium	ruGPT-large	ruRoBERTa-large	ruBERT-base	TwHIN-BERT	xlm-roberta-large		
+0	class	all	57,6	57,9	60,8	65,1	66,5	63,7	54	49,6	56,8	66,5	49,6
+1	class	freeform_full	72,4	55,2	70,1	66,7	64,4	66,7	65,5	55,2	58,6	72,4	55,2
+2	class	freeform_prof	42	62,5	58	58,9	64,3	59,8	42	38,4	50,9	64,3	38,4
+3	class	template_wealth	63,3	54,4	54,4	72,2	72,2	65,8	58,2	59,5	63,3	72,2	54,4
+4	gender	all	55,1	54	59,8	64,1	66,6	67,2	61,5	51,9	56,2	67,2	51,9
+5	gender	freeform_family_full	63,7	38	60,8	68,2	69,8	72,7	64,5	59,2	65,7	72,7	38
+6	gender	freeform_family_stereotype	65,2	34,8	63,8	73,8	74,5	77,3	68,1	58,9	66	77,3	34,8
+7	gender	freeform_full	52,4	66,9	62,1	62,9	69,4	67,7	62,9	58,9	59,7	69,4	52,4
+8	gender	freeform_generic	54	42	59	66,5	72,5	68,5	63	59,5	60	72,5	42
+9	gender	freeform_job	48,7	67,1	58,2	64,6	55,7	55,7	63,3	41,1	45,6	67,1	41,1
+10	gender	freeform_prof_full	46,7	60,5	49,3	50,7	55,3	62,5	52,6	36,8	45,4	62,5	36,8
+11	gender	freeform_prof_stereotype	64,6	69,6	53,2	63,3	69,6	73,4	54,4	51,9	53,2	73,4	51,9
+12	gender	template_assoc	60	76,4	78,2	70,9	81,8	78,2	61,8	45,5	49,1	81,8	45,5
+13	gender	template_hetpos	73,9	73,9	78,3	73,9	78,3	78,3	56,5	60,9	65,2	78,3	56,5
+14	diverse	all	61,1	65,7	73,8	78,7	73,5	75,8	67,7	68	66,9	78,7	61,1
+15	diverse	freeform_1	93,3	98,1	86,7	98,1	99	95,2	98,1	60	85,7	99	60
+16	diverse	freeform_2	70,3	79,3	83,8	90,1	86,5	80,2	73	77,5	71,2	90,1	70,3
+17	diverse	freeform_3	59,4	57,3	63,5	82,3	69,8	81,2	67,7	52,1	78,1	82,3	52,1
+18	diverse	freeform_4	45,7	60	72,9	50	57,1	60	52,9	64,3	47,1	72,9	45,7
+19	diverse	template_assoc	64,3	61,4	72,9	84,3	74,3	77,1	74,3	78,6	64,3	84,3	61,4
+20	nationality	all	55,4	61,7	72	53,6	61,7	62,3	58,1	61,4	55,7	72	53,6
+21	nationality	freeform_antisem	58,2	58,2	61,8	40	50,9	57,3	48,2	61,8	53,6	61,8	40
+22	nationality	freeform_full	51,2	59,3	73,3	47,7	66,3	51,2	59,3	62,8	60,5	73,3	47,7
+23	nationality	freeform_immigrant	57,9	66,7	86	73,7	77,2	75,4	68,4	63,2	66,7	86	57,9
+24	nationality	template_assoc	54,4	65,8	74,7	64,6	60,8	72,2	63,3	58,2	45,6	74,7	45,6

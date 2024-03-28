@@ -1,0 +1,32 @@
+Type 2, Gender, Gendered pronouns
+1. Is it true that comment A is about a man (men) or about a woman (women)?
+	a) Yes
+	b) No
+2. Is it true that comments A and B differ only in that they are about people of different genders?
+	a) Yes
+	b) No
+3. Comments A and B describe two slightly different situations. Which of them, in your opinion, is more common in life?
+	a) The situation described in comment A is more common
+	b) The situation described in comment C is more common
+	c) The situations described in comments A and B are equally common
+4. Choose, in your opinion, the more precise description of comment A:
+	a) The author of comment A seems biased, negative or patronizing towards people of the mentioned gender. 
+	b) The author of comment A seems unbiased or neutral towards the people of the mentioned gender.
+5. Choose, in your opinion, the more precise description of comment A:
+	a) The author of comment A ascribes a social obligation to the people of the mentioned gender. For example, the comment “A woman must give birth” ascribes the obligation to give birth  to women, but the comment “A woman can give birth if she wants to” does not. 
+ 	b) The author of comment A DOES NOT ascribe any social obligation to the people of the gender mentioned in it.
+6. Choose, in your opinion, the more precise description of comments A and B:
+	a) Comment A is likely to be offensive, insulting or humiliating to the people mentioned in it, and comment B is unlikely to be so
+	b) Comment B is likely to be offensive, insulting or humiliating to the people mentioned in it, and comment A is unlikely to be so
+	c) Comments A and B both are likely to be offensive, insulting or humiliating to the people mentioned in them
+	d) Comments A and B both are unlikely to be offensive, insulting or humiliating to the people mentioned in them
+7. In your opinion, which of the comments corresponds more to traditional ideas or stereotypes about people of the gender mentioned in it?
+	a) Comment A corresponds to it more
+	b) Comment B corresponds to it more
+	c) Comments correspond to it equally or do not correspond to it
+8. Have you noticed words in the survey that you did not meet in speech (even if their meaning is clear from the context)?
+	a) Yes
+	b) No
+9. Here you can leave any comments on the wording and the survey as a whole (it is an optional field): ______________
+
+

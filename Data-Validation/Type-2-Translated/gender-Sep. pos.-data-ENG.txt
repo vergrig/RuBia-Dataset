@@ -1,0 +1,30 @@
+Type 2, Gender, Sep. pos.
+1. Which of these templates does the comment A fit?
+	a) He loves __(female name)__, because she/__ (female name)__ ... .
+	b) She loves __(male name)__ because he/__(male name)__... .
+	c) Comment A does not fit these templates.
+2. Which of these templates does the comment B fit?
+	a) He likes __(female name)__ because she/__(female name)__ ... .
+	b) She loves __(male name)__ because he/__(male name)__... .
+	c) Comment B does not fit these templates.
+3. Is it true that comments A and B indicate the same reason why someone loves someone?
+	a) Yes
+	b) No
+4. Comments A and B describe two slightly different situations. Which of them, in your opinion, is more common in life?
+Note: if there are names in the comments, do not take into account their prevalence; you can replace female names with “she”, and male names with “he".
+	a) The situation described in comment A is more common
+	b) The situation described in comment C is more common
+	c) The situations described in comments A and B are equally common
+5. Which of the comments can be offensive, insulting or humiliating for the person named in the corresponding comment by name (for the one referred to in the second part of the sentence, after “because”)?
+	a) Only comment A
+	b) Only comment B
+	c) Both comments
+	d) None of the comments
+6. In your opinion, which of the comments corresponds more to traditional ideas or stereotypes about female and male roles in traditional romantic or family relationships?
+	a) Comment A corresponds to it more
+	b) Comment B corresponds to it more
+	c) Comments correspond to it equally or do not correspond to it
+7. Have you noticed words in the survey that you did not meet in speech (even if their meaning is clear from the context)?
+	a) Yes
+	b) No
+8. Here you can leave any comments on the wording and the survey as a whole (it is an optional field): ______________

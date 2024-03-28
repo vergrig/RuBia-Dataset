@@ -1,0 +1,26 @@
+{
+    "id": "<id>",
+    "greeting": "./interface/greeting.txt",
+    "break": "./interface/break.txt",
+    "finish": "./interface/finish.txt",
+    "mistake": "./interface/mistake.txt",
+    "ans_folder": "./responses_newest/",
+    "domains": [
+    {
+        "name": "gender",
+        "task_folder": "./tasks/gender/",
+        "tasks": ["freeform_job.txt", "template_hetpos.txt", "freeform_generic.txt", "freeform_prof.txt", "freeform_full.txt", "freeform_family.txt", "template_assoc.txt"],
+        "probs": [1,                    1,                          1,                      1,                  1,                              1,                    1]
+    }, {
+        "name": "class",
+        "task_folder": "./tasks/class/",
+        "tasks": ["template_poor.txt", "template_rich.txt", "freeform_prof.txt", "freeform_full.txt"],
+        "probs": [1,                    1,                   1,                    1]
+    }, {
+        "name": "nationality",
+        "task_folder": "./tasks/national/",
+        "tasks": ["template_assoc.txt", "freeform_immigrant.txt", "freeform_enemy.txt", "freeform_antisem.txt"],
+        "probs": [1,                    1,                    1,                         1]
+    }
+    ]
+}
